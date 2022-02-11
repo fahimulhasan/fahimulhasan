@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fahimulhasan
-- 👀 I’m interested in ...JAVA but By Nature I am accountant
+- 👀 I’m interested in ...JAVA/Test Automation but By Nature I am accountant
 - 🌱 I’m currently learning ...JAVA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...special Project
 - 📫 How to reach me ...
 
 <!---
